@@ -2,7 +2,7 @@ public class LiterstoGallonsconverter {
 
     public static void main(String[] args){
         double gallons, liters;
-        int counter = 1;
+        int counter = 0;
 
         counter = 0;
 
