@@ -16,7 +16,7 @@ public class LiterstoGallonsconverter {
                 System.out.println("gallon");
             }
 
-            if(counter == 5){
+            if (counter == 5){
                 System.out.println("");
                 counter = 0;
             }
