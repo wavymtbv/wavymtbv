@@ -6,7 +6,7 @@ public class LiterstoGallonsconverter {
 
         counter = 0;
 
-        for(gallons = 1; gallons <= 100; gallons +=4){
+        for(gallons = 1; gallons <= 100; gallons += 4){
             liters = gallons * 3.79;
 
             System.out.println(liters+ " liters = " + gallons + " gallons.");
